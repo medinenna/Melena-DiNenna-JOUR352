@@ -1,7 +1,7 @@
 BODY {
   font-family: 'Open Sans', arial, sans-serif;
-  font-size: 1em;
-  color: #444
+  font-size:1em;
+  color:#444
   font-weight:400;
 }
 
@@ -23,5 +23,11 @@ h2 {
   text-transform:uppercase;
   background-color:#33485e;
   color:#fff;
+
+}
+
+h3{
+  font-weight:bold;
+  font-size:2em;
 
 }
