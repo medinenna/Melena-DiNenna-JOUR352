@@ -1,3 +1,6 @@
+/* */ styles for my resume /* */
+
+/* */ default settings for text /* */
 BODY {
   font-family: 'Open Sans', arial, sans-serif;
   font-size:1em;
@@ -5,6 +8,7 @@ BODY {
   font-weight:400;
 }
 
+/* */ name at top /* */
 h1 {
   font-size:3em;
   text-transform:uppercase;
@@ -12,12 +16,14 @@ h1 {
   color:#33485e;
 }
 
+/* */ title /* */
 strong {
   color:#33485e;
   text-transform:uppercase;
   font-size:1.5em;
 }
 
+/* */ headings: experience, education, skills /* */
 h2 {
   font-size:1.5em;
   text-transform:uppercase;
@@ -25,25 +31,25 @@ h2 {
   color:#fff;
 
 }
-
+/* */ job titles /* */
 h3{
   font-weight:600;
   font-size:2em;
 
 }
-
+/* */ employers /* */
 h4 {
   font-weight:400;
   font-size:1.5em;
 
 }
-
+/* */ dates of employment /* */
 h5 {
   font-weight:400;
   font-size:1em;
   font-style:italic;
 }
-
+/* */ lists of contact, skills, education /* */
 ul {
   font-size:1.5em;
 }
