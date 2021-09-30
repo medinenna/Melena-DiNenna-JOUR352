@@ -7,7 +7,12 @@ BODY {
   color:#444;
   font-weight:400;
 }
+#container {
+  width:100%;
+  max-width: 1200px;
+  margin:0 auto;
 
+}
 /* name at top */
 #name {
   font-size:3em;
