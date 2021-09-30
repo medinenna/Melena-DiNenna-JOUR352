@@ -9,11 +9,12 @@ BODY {
 }
 
 /* */ name at top /* */
-h1 {
+#name {
   font-size:3em;
   text-transform:uppercase;
   text-align:center;
   color:#33485e;
+  border-bottom:2px solid;
 }
 
 /* */ title /* */
