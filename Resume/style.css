@@ -1,56 +1,62 @@
-/* */ styles for my resume /* */
+/*styles for my resume  */
 
-/* */ default settings for text /* */
+/*default settings for text  */
 BODY {
   font-family: 'Open Sans', arial, sans-serif;
   font-size:1em;
-  color:#444
+  color:#444;
   font-weight:400;
 }
 
-/* */ name at top /* */
+/* name at top */
 #name {
   font-size:3em;
   text-transform:uppercase;
   text-align:center;
   color:#33485e;
-  border-bottom:2px solid;
+  border-bottom: 2px solid #33485e;
+  width:60%;
+  max-width: 300px;
+  margin: 0 auto;
 }
 
-/* */ title /* */
+/*  title  */
 strong {
   color:#33485e;
   text-transform:uppercase;
   font-size:1.5em;
 }
 
-/* */ headings: experience, education, skills /* */
-h2 {
+/* headings: experience, education, skills */
+.sectionheader {
   font-size:1.5em;
   text-transform:uppercase;
   background-color:#33485e;
   color:#fff;
+  margin: 20px 0 10px 0;
+  width: 70%;
+  min-width: 300px;
 
 }
-/* */ job titles /* */
+/*  job titles */
 h3{
   font-weight:600;
   font-size:2em;
 
 }
-/* */ employers /* */
+/*  employers  */
 h4 {
   font-weight:400;
   font-size:1.5em;
 
 }
-/* */ dates of employment /* */
+/* dates of employment  */
 h5 {
   font-weight:400;
   font-size:1em;
   font-style:italic;
 }
-/* */ lists of contact, skills, education /* */
+/* lists of contact, skills, education */
 ul {
   font-size:1.5em;
 }
