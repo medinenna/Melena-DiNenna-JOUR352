@@ -32,6 +32,10 @@ strong {
   font-size:1.5em;
 }
 
+.description {
+  margin: 10 0 10 0;
+}
+
 /* headings: experience, education, skills */
 .sectionheader {
   font-size:1.5em;
@@ -41,27 +45,32 @@ strong {
   margin: 20px 0 10px 0;
   width: 70%;
   min-width: 300px;
-
 }
 /*  job titles */
-h3{
+.jobtitle{
   font-weight:600;
   font-size:2em;
-
 }
 /*  employers  */
-h4 {
+.organization {
   font-weight:400;
   font-size:1.5em;
-
 }
 /* dates of employment  */
-h5 {
+.date {
   font-weight:400;
   font-size:1em;
   font-style:italic;
+  margin-top;3px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
 }
 /* lists of contact, skills, education */
-ul {
+.menu {
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
   font-size:1.5em;
+  text-align: center;
+  display: inline;
 }
