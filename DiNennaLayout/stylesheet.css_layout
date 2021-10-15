@@ -1,0 +1,11 @@
+<link rel="stylesheet type="text/css
+href="stylesheet.css_layout">
+
+#content {
+  margin: 0 auto;
+  width: 900px
+}
+
+p{
+  font-family: "Times New Roman", Times, serif;
+}
