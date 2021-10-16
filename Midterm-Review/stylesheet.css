@@ -32,11 +32,23 @@ img {
 }
 #caption {
   width: 50%;
-  text-align: justify;
+  text-align: center;
   margin: 0 auto;
 }
 
 #giftitle {
   margin: 0 auto;
   text-align: center;
+}
+
+blockquote {
+  font:16/24px normal helvetica, sans-serif;
+  font-style: italic;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  color: red;
+  margin-left: 50px;
+  padding-left: 15px;
+  padding-top: 15px;
+  border-left: 4px solid #ccc;
 }
