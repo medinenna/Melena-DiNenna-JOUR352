@@ -1,0 +1,42 @@
+#content {
+  margin: 0 auto;
+  width: 900px
+}
+
+body{
+  font-family: Georgia, serif;
+  font-size: 13px;
+}
+
+h1 {
+  font-family: Helvetica, sans-serif;
+}
+
+#byline {
+  font-size: 14px;
+  font-family: Helvetica, sans-serif;
+  font-stlye: italic;
+}
+
+p{
+  font-family: Georgia, serif;
+}
+img {
+  width: 50%;
+  height: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+}
+#caption {
+  width: 50%;
+  text-align: justify;
+  margin: 0 auto;
+}
+
+#giftitle {
+  margin: 0 auto;
+  text-align: center;
+}
