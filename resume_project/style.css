@@ -1,0 +1,189 @@
+/*styles for my resume  */
+
+/*default settings for text  */
+BODY {
+  font-family: 'Open Sans', arial, sans-serif;
+  font-size:1em;
+  color:#444;
+  font-weight:400;
+}
+#container {
+  width:100%;
+  max-width: 1200px;
+  margin:0 auto;
+
+}
+.fixed-top, .nav-item{
+  color:brown;
+}
+/* name at top */
+.fw-bold {
+  font-size:3em;
+  font-family: 'IBM Plex Mono', monospace;
+  text-transform:uppercase;
+  text-align:center;
+  color:#654321;
+  border-bottom: 2px solid #99cfe0;
+  padding: 5px;
+  width:100%;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+/*  title  */
+.mb-4 {
+  color:#654321;
+  font-family: 'IBM Plex Mono', monospace;
+  letter-spacing: .2em;
+  text-transform:uppercase;
+  font-size:1.5em;
+  font-weight:600;
+  text-align: center;
+  margin: 20px 0 0 0;
+}
+
+/*icons*/
+.bi-envelope-fill, .bi-linkedin, .bi-twitter, .bi-github{
+  font-size: 30px;
+  color:#654321;
+  padding: 10px;
+}
+/*headshot*/
+.rounded-circle{
+  width:300px;
+  height:320px;
+  padding: 10px;
+  margin:5px 5px 5px 5px;
+}
+
+.col-sm{
+  width: 30%;
+  padding-top:130px;
+  margin-top:130px;
+  margin-bottom: 30px;
+  text-align:center;
+  margin:0 auto;
+}
+
+.About{
+  font-family: 'IBM Plex Mono', monospace;
+  align:center;
+  color:#654321;
+}
+
+.intro{
+  width:60%;
+  margin:0 auto;
+  color:#696969;
+}
+
+
+/* headings: experience, education, skills */
+
+.col {
+  padding-bottom: 50px;
+  text-align: center;
+}
+.row{
+  padding:5px 5px;
+}
+.sectionheader {
+  font-size:1.5em;
+  font-weight:bold;
+  font-family: 'IBM Plex Mono', monospace;
+  color:#654321;
+  text-transform:uppercase;
+  margin: 0 auto;
+  padding-top: 10px;
+  width: 70%;
+  min-width: 300px;
+  align:center;
+}
+/*  job titles */
+
+.jobcard{
+  padding: 10px 10px;
+  background-color:#d4ebf2;
+}
+
+.jobtitle{
+  font-weight:600;
+  font-size:1.2em;
+  font-family: 'IBM Plex Mono', monospace;
+  color:#654321;
+  text-align:center;
+}
+/*  employers  */
+.organization {
+  font-weight:600;
+  font-size:1em;
+  text-align:center;
+
+}
+/* dates of employment  */
+.date {
+  font-weight:400;
+  color:#696969;
+  font-size:1em;
+  font-style:italic;
+  margin-top;3px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  text-align:center;
+}
+.jobdesc{
+  text-align:justify;
+  font-size:.9em;
+  padding: 2px;
+}
+
+.degrees{
+  padding: 10px 10px;
+  background-color:#d4ebf2;
+  width:50%;
+  margin:0 auto;
+  font-weight:600;
+  font-size:1em;
+  text-align:center;
+}
+
+.skillcard{
+  padding: 20px;
+  margin:0 auto;
+  background-color:#d4ebf2;
+}
+
+.skilltype{
+  font-weight:600;
+  font-size:1.2em;
+  font-family: 'IBM Plex Mono', monospace;
+  color:#654321;
+  text-align:center;
+}
+
+.skilldesc{
+  text-align:justify;
+  font-size:.9em;
+  padding: 2px;
+}
+/* lists of contact, skills, education */
+.menu {
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+  font-size:1.5em;
+  text-align: center;
+}
+
+.menu li {
+  display: inline;
+  text-align: center;
+}
+
+.degrees {
+  margin-top: 5px 0 0 0;
+}
+
+.do {
+  margin-top: 5px 0 0 0;
+}
