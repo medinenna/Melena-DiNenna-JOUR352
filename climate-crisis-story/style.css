@@ -1,0 +1,143 @@
+.codered{
+  font-size:20px;
+}
+
+.header{
+  text-align: center;
+}
+
+.pagetop{
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, .6);
+  color: #f1f1f1;
+  width:100%;
+  padding: 20px;
+  font-size-adjust: auto;
+  font-size:4em;
+}
+
+.cap{
+    font-size:.8em;
+    font-weight:lighter;
+    font-family: 'Montserrat', sans-serif;
+    color:grey;
+    text-align: center;
+}
+
+.headline{
+  font-size:3em;
+  font-weight:700;
+  text-align:center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.byline{
+  font-size:1em;
+  text-transform:uppercase;
+  font-family: 'Montserrat', sans-serif;
+  text-align:center;
+  padding:15px;
+}
+
+p{
+  font-family:Georgia, serif;
+  width:60%;
+  margin:inherit;
+  margin-bottom: 20px;
+  font-size:17px;
+  text-align:justify;
+  min-width:inherit;
+}
+
+#graphic{
+  margin-left: auto;
+  margin-right: auto;
+  align:center;
+}
+
+img{
+  margin:auto;
+  display:block;
+  align:center;
+  width:60%;
+  padding:5px;
+}
+
+.chaphead{
+  font-size:20px;
+  padding-top:15px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight:bold;
+  color:#b22222;
+}
+
+.pullquote{
+  width: 70%;
+  color: #b22222;
+  line-height: 0.9;
+  font-style: italic;
+  margin:0 auto;
+  background: url(/Users/melena/Documents/GitHub/Melena-DiNenna-JOUR352/climate-crisis-story/Quotation-Mark-PNG-Free-Download.png) top left no-repeat;
+  border-bottom: dotted #b22222;
+  border-top: dotted #b22222;
+  border-width: 0.3px;
+  padding-bottom:30px;
+}
+
+.pullquote-top{
+  font-size: 26px;
+  padding-top:50px;
+  padding-left:40px;
+}
+
+.pullquote-top::first-letter{
+  font-size:30px;
+  font-weight:bold;
+}
+
+
+.pullquote-bottom{
+  padding-top:15px;
+  padding-left:45px;
+}
+
+.text-box{
+  background-color: #dcdcdc;
+  width: 50%;
+  margin: 0 auto;
+  border: solid #b22222 1px;
+}
+
+.text-box-title{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.25em;
+  font-weight:bold;
+  text-align: center;
+  color: #b22222;
+}
+
+.text-box-text{
+  width:90%;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px;
+  text-align: left;
+  color:black;
+  margin:0 auto;
+}
+
+.text-box-intro-text{
+  width:70%;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1em;
+  text-align: justify;
+}
+
+.text-box-source-text{
+  padding-left: 1em;
+  padding-right: 1em;
+  width:100%;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px;
+  text-align: justify;
+  color:#303030;
+}
