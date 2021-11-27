@@ -1,9 +1,28 @@
-.codered{
-  font-size:20px;
+.fixed-top{
+  margin:0 auto;
+  z-index:1;
 }
 
-.header{
-  text-align: center;
+.box{
+  background:#b22222;
+  height: 20px;
+  width:0%;
+  position:fixed;
+  top:0;
+  z-index:2;
+}
+
+h5{
+  width:100%;
+  margin:0 auto;
+  align-items: center;
+  top:0;
+  font-family: 'Montserrat', sans-serif;
+  font-size:1em;
+  text-transform:uppercase;
+  font-weight:700;
+  position:fixed;
+
 }
 
 .pagetop{
@@ -46,13 +65,7 @@ p{
   margin-bottom: 20px;
   font-size:17px;
   text-align:justify;
-  min-width:inherit;
-}
-
-#graphic{
-  margin-left: auto;
-  margin-right: auto;
-  align:center;
+  min-width:60%;
 }
 
 img{
@@ -72,7 +85,7 @@ img{
 }
 
 .pullquote{
-  width: 70%;
+  width: 60%;
   color: #b22222;
   line-height: 0.9;
   font-style: italic;
@@ -140,4 +153,38 @@ img{
   font-size: 12px;
   text-align: justify;
   color:#303030;
+}
+
+/**unvisited link**/
+a:link{
+  color:#b22222;
+}
+
+/**visited link**/
+a:visited{
+  color:#778ba5;
+}
+
+/**mouse over link**/
+a:hover{
+  color:#701c1c;
+}
+
+.progress-container {
+  width: 100%;
+  height: 8px;
+  background: #ccc;
+}
+
+.progress-bar {
+  height: 8px;
+  background: #04AA6D;
+  width: 0%;
+}
+
+@media screen and (max-width: 380px) {
+ /*Add CSS that only activates on screens less than 480x here*/
+ h1{
+   font-size:.5em;
+ }
 }
