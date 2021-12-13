@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": 8899.1,
+        "description": "<h4>8899</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">Name</span>:</strong> <span class=\"atr-value\">8899</span></li>\n  <li><strong><span class=\"atr-name\">FolderPath</span>:</strong> <span class=\"atr-value\">Lindsey's Places_NWBLCC.kmz/Lindsey's Places/7000-9999</span></li>\n  <li><strong><span class=\"atr-name\">SymbolID</span>:</strong> <span class=\"atr-value\">4</span></li>\n  <li><strong><span class=\"atr-name\">AltMode</span>:</strong> <span class=\"atr-value\">0</span></li>\n  <li><strong><span class=\"atr-name\">Base</span>:</strong> <span class=\"atr-value\">0.0</span></li>\n  <li><strong><span class=\"atr-name\">Clamped</span>:</strong> <span class=\"atr-value\">-1</span></li>\n  <li><strong><span class=\"atr-name\">Extruded</span>:</strong> <span class=\"atr-value\">0</span></li>\n  \n  <li><strong><span class=\"atr-name\">PopupInfo</span>:</strong> <span class=\"atr-value\">Peel River Watershed, Yukon Territory</span></li>\n  <li><strong><span class=\"atr-name\">Shape_Leng</span>:</strong> <span class=\"atr-value\">0.0</span></li>\n  <li><strong><span class=\"atr-name\">Shape_Area</span>:</strong> <span class=\"atr-value\">13.977087039</span></li>\n</ul>\n"
+      },
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              -135.36614831377466,
+              65.58258389994884
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -139.26864964099997,
+                  65.42624803500007
+                ],
+                [
+                  -139.98168846099998,
+                  66.01325676200008
+                ],
+                [
+                  -138.19687199799995,
+                  66.00681230700008
+                ],
+                [
+                  -136.13322904799998,
+                  67.00408282000006
+                ],
+                [
+                  -133.52578793799995,
+                  67.01015308400008
+                ],
+                [
+                  -133.55608268199995,
+                  66.00389846500008
+                ],
+                [
+                  -132.261122764,
+                  66.04629272800008
+                ],
+                [
+                  -132.051393621,
+                  64.81123355600005
+                ],
+                [
+                  -131.073744348,
+                  64.39446233800004
+                ],
+                [
+                  -136.840754721,
+                  64.47886052200005
+                ],
+                [
+                  -139.26864964099997,
+                  65.42624803500007
+                ]
+              ]
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

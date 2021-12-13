@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Data Infographics and Map</title>
+</head>
+<body>
+
+  <iframe title="Number of Catastrophic Drainages" aria-label="Column Chart" id="datawrapper-chart-7n4Bb" src="https://datawrapper.dwcdn.net/7n4Bb/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="370"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+  </script>
+
+  <br><br><br><br>
+
+  <iframe title="Yukon Temperature Anomalies (°C), 1980-2016" aria-label="Interactive line chart" id="datawrapper-chart-D9sH2" src="https://datawrapper.dwcdn.net/D9sH2/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="472"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();</script>
+
+  <br><br><br><br>
+
+  <iframe title="Vuntut Gwitchin First Nation" aria-label="Locator maps" id="datawrapper-chart-FUGa7" src="https://datawrapper.dwcdn.net/FUGa7/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="573"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();</script>
+
+  <br><br><br><br>
+
+</body>
+</html>
