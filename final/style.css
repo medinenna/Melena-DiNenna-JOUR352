@@ -1,0 +1,128 @@
+.fixed-top{
+  margin:0 auto;
+  z-index:1;
+}
+
+.box{
+  background: rgb(165,203,245);
+  background: linear-gradient(270deg, rgba(165,203,245,0) 0%, rgba(165,203,245,0.5984768907563025) 3%, rgba(165,203,245,1) 8%, rgba(165,203,245,1) 19%, rgba(165,203,245,1) 36%, rgba(134,111,117,1) 50%, rgba(119,65,53,1) 60%, rgba(110,38,14,1) 72%, rgba(110,38,14,1) 84%, rgba(110,38,14,1) 91%, rgba(110,38,14,1) 94%, rgba(110,38,14,0.8813900560224089) 96%, rgba(110,38,14,0.1334908963585434) 100%);
+  height: 20px;
+  width:0%;
+  position:fixed;
+  top:0;
+  z-index:2;
+}
+
+.pagetop{
+  background-size: cover;
+  color: black;
+  width:100%;
+  padding-top: 40px;
+  padding-bottom:20px;
+  font-size:4em;
+}
+
+.Headline{
+  font-family:'PT Sans', sans-serif;
+  font-size:3em;
+  width:60%;
+  margin:0 auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.byline{
+  list-style:none;
+  margin:0 auto;
+  width:60%;
+  border-left: solid black;
+  text-align:left;
+}
+
+html {height:100%;}
+
+body {height:100%; width:100%;}
+
+p{
+  width:60%;
+  margin: 0 auto;
+  font-family: 'Noto serif', serif;
+  padding-top:10px;
+  padding-bottom:15px;
+}
+
+h5{
+  width:60%;
+  margin: 0 auto;
+  font-family: 'PT Sans', sans-serif;
+  font-weight:bold;
+  color:#6E260E;
+  padding-top:10px;
+}
+
+.pullquote{
+  width: 50%;
+  color: #6E260E;
+  font-family: 'PT Sans', sans-serif;
+  font-style: italic;
+  line-height: 0.9;
+  margin:0 auto;
+  border-left:solid #6E260E;
+  border-width: 2px;
+  border-color:#A5CBF5;
+  background: rgb(165,203,245);
+  background: rgb(165,203,245);
+  background: linear-gradient(90deg, rgba(165,203,245,0.7) 0%, rgba(165,203,245,0.5) 25%, rgba(165,203,245,0.4) 50%, rgba(165,203,245,0.2) 75%, rgba(165,203,245,0) 100%);
+  height:100px;
+  padding-left:10px;
+  padding-top:10px;
+
+}
+
+.pullquote-top{
+  font-size: 26px;
+}
+
+.pullquote-bottom{
+  text-align:right;
+  padding-left:45px;
+}
+
+/**drainages graphic**/
+#datawrapper-chart-7n4Bb{
+  margin:auto;
+  display:block;
+  align:center;
+  padding:10px;
+  width:60%;
+  border: none;
+  height:400;
+}
+
+/**temp anomalies graphic**/
+#datawrapper-chart-D9sH2{
+  margin:auto;
+  display:block;
+  align:center;
+  padding:10px;
+  width:60%;
+  border: none;
+  height:400;
+}
+
+/**map**/
+#datawrapper-chart-FUGa7{
+  margin:auto;
+  display:block;
+  align:center;
+  padding:10px;
+  width:60%;
+  border: none;
+  height:400;
+}
+
+@media screen and (max-width: 600px) {
+    container{
+      width:70%;
+    }
+}
